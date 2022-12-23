@@ -10,7 +10,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshuofficial&layout=compact&theme=javascript)](https://github.com/Dipanshuofficial/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshuofficial&layout=compact)](https://github.com/Dipanshuofficial/github-readme-stats)
 
 
 
