@@ -4,15 +4,15 @@
 - 📫 How to reach me @dsingh212 on telegram.
 
 
-![Dipanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipanshuofficial&show_icons=true&theme=tokyonight)
+![Dipanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipanshuofficial&show_icons=true&theme=javascript)
 
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshuofficial&layout=compact)](https://github.com/Dipanshuofficial/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshuofficial&layout=compact&theme=javascript)](https://github.com/Dipanshuofficial/github-readme-stats)
 
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dipanshuofficial)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dipanshuofficial&theme=javascript)](https://git.io/streak-stats)
