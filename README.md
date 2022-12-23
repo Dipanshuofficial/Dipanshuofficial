@@ -5,3 +5,9 @@
 
 
 ![Dipanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipanshuofficial&show_icons=true&theme=tokyonight)
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshuofficial&layout=compact)](https://github.com/Dipanshuofficial/github-readme-stats)
