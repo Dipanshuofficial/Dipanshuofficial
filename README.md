@@ -10,9 +10,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshuofficial&layout=compact)](https://github.com/Dipanshuofficial/github-readme-stats)
+
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dipanshuofficial&theme=react&line_height=40&hide=css"/> </a>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dipanshuofficial)](https://git.io/streak-stats&theme=javascript)
+
